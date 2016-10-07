@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1395790014 source:c:\users\korisnik\desktop\škola\2 godina\rp1\hoteli\main.cpp
+	"hoteli.h"
+	<iostream>
+
+1395790001 c:\users\korisnik\desktop\škola\2 godina\rp1\hoteli\hoteli.h
+	<iostream>
+	<cstring>
+
+1395790006 source:c:\users\korisnik\desktop\škola\2 godina\rp1\hoteli\hoteli.cpp
+	<iostream>
+	"hoteli.h"
+

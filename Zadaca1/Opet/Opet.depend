@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1396203452 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca1\main.cpp
+	<iostream>
+	<string>
+	"imenik.h"
+
+1396204584 c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca1\imenik.h
+	<string>
+
+1396205501 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca1\imenik.cpp
+	<iostream>
+	"imenik.h"
+
