@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1401817982 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca3\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"comp.h"
+
+1402045937 c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca3\comp.h
+	<iostream>
+	<string>
+	<vector>
+
+1402045909 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca3\comp.cpp
+	"comp.h"
+	<iostream>
+	<string>
+	<vector>
+
+1402045758 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca3\main.6.cpp
+	<iostream>
+	"comp.h"
+
