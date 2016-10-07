@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1402782403 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\surd.cpp
+	"surd.h"
+	<string>
+	<cmath>
+
+1402776055 c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\surd.h
+	<iostream>
+	<string>
+
+1402776573 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main1.cpp
+	"surd.h"
+
+1402777335 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main2.cpp
+	<iostream>
+	<cmath>
+	"surd.h"
+
+1402848080 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main3.cpp
+	<iostream>
+	<cmath>
+	"surd.h"
+
+1402777358 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main4.cpp
+	<iostream>
+	"surd.h"
+
+1402777369 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main5.cpp
+	<iostream>
+	"surd.h"
+
+1402777380 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main6.cpp
+	<iostream>
+	"surd.h"
+
+1402777333 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca4\main7.cpp
+	<iostream>
+	"surd.h"
+
+1402848080 source:c:\users\ivan\documents\faks\2 godina\rp1\zadaca4\main3.cpp
+	<iostream>
+	<cmath>
+	"surd.h"
+
+1402776055 c:\users\ivan\documents\faks\2 godina\rp1\zadaca4\surd.h
+	<iostream>
+	<string>
+
+1402782403 source:c:\users\ivan\documents\faks\2 godina\rp1\zadaca4\surd.cpp
+	"surd.h"
+	<string>
+	<cmath>
+
