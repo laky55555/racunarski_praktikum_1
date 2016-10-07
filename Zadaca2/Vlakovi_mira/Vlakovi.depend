@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1398512955 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\vlakovi\vlakovi.cpp
+	"vlakovi.h"
+	<iostream>
+	<string>
+	<utility>
+	<map>
+	<vector>
+	<set>
+
+1398512956 c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\vlakovi\vlakovi.h
+	<iostream>
+	<string>
+	<utility>
+	<map>
+	<list>
+	<set>
+	<vector>
+
+1398512955 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\vlakovi\main.cpp
+	<iostream>
+	"vlakovi.h"
+	<string>
+	<iostream>
+	<vector>
+	<set>
+

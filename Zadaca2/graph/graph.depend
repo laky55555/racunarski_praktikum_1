@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1398864438 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\main.cpp
+	<map>
+	<utility>
+	<list>
+	"graf.h"
+	<iostream>
+	<string>
+	<set>
+	<vector>
+
+1398510628 c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\graf.h
+	<map>
+	<utility>
+	<list>
+	<iostream>
+	<string>
+	<set>
+	<vector>
+
+1398863130 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\graf.cpp
+	<map>
+	<utility>
+	<list>
+	"graf.h"
+	<iostream>
+	<string>
+	<set>
+	<vector>
+
+1398335236 source:c:\users\korisnik\desktop\škola\2 godina\rp1\zadaca2\graf2.cpp
+	<map>
+	<utility>
+	<list>
+	"graf.h"
+	<iostream>
+	<string>
+	<set>
+	<vector>
+
